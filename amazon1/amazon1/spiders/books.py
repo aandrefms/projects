@@ -1,5 +1,5 @@
 import scrapy
-API = '8f3001e878e02c5d9a7c45e0c24c9f66'
+API = 'KEY'
 from urllib.parse import urlencode
 
 
